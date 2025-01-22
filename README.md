@@ -79,9 +79,9 @@ Para ejecutar este proyecto en tu máquina local, sigue los siguientes pasos:
 ### Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_proyecto.git
+git clone https://github.com/Emilianoc28/PIDA.git
 
-cd tu_proyecto
+cd PIDA
 
 pip install -r requirements.txt
 
